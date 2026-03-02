@@ -66,3 +66,4 @@
 
 # \- http://localhost:8080/api/estudantes/2024001
 
+# \-http://localhost:8080/api/estudantes/curso/Engenharia de Software
